@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <header className="bg-lime-600 py-3">
-        <div className="max-w-4xl mx-auto flex justify-between">
+        <div className="max-w-4xl mx-auto flex justify-between items-center">
           <h1 className="text-center text-white text-lg font-bold uppercase">
             Contador de Calorías
           </h1>
