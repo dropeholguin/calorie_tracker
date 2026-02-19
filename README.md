@@ -13,7 +13,7 @@ An interactive web app built with **React + TypeScript + Vite + React Redux** to
 Add meals and exercises to calculate **calories consumed vs. burned** in real time, all managed with a **centralized Redux state**.  
 Perfect for maintaining a healthy lifestyle and visualizing your progress. 💪  
 
-👉 **Live Demo:** [Calorie Tracker App on Netlify](https://subtle-taiyaki-f4335f.netlify.app/)
+👉 **Live Demo:** [Calorie Tracker App on Netlify](https://contcalordrope.netlify.app/)
 
 ---
 
